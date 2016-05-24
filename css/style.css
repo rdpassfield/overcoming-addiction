@@ -120,7 +120,7 @@ header a {
 }
 
 .flip {
-  background: url(../img/Shauraside.copy.jpg) no-repeat;
+  background: url(../img/shauraside.copy.jpg) no-repeat;
   background-size: cover;
   background-attachment: fixed; /* the background image doesn't move when scrolling*/
   overflow: hidden;
